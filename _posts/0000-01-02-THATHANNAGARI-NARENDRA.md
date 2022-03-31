@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Float like a bird, sting like a bee" - THATHANNAGARI-NARENDRA
 Use the left arrow to go back!
